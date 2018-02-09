@@ -1,7 +1,6 @@
 *.swp
 *.swo
 *.o
-build
 *.lock*
 binding.node
 examples/stress-test-client

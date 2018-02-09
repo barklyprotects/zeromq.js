@@ -1,4 +1,6 @@
-# zeromq.js
+# Fork of ZeroMQ with both 32bit/64bit prebuilt binaries
+
+## zeromq.js
 
 [![codecov](https://codecov.io/gh/zeromq/zeromq.js/branch/master/graph/badge.svg)](https://codecov.io/gh/zeromq/zeromq.js)
 [![Greenkeeper badge](https://badges.greenkeeper.io/zeromq/zeromq.js.svg)](https://greenkeeper.io/)
