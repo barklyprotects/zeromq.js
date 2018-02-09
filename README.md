@@ -1,5 +1,7 @@
 # Fork of ZeroMQ with both 32bit/64bit prebuilt binaries
 
+Binaries obtained from https://github.com/zeromq/zeromq.js/releases (v4.6.0, node v47)
+
 ## zeromq.js
 
 [![codecov](https://codecov.io/gh/zeromq/zeromq.js/branch/master/graph/badge.svg)](https://codecov.io/gh/zeromq/zeromq.js)
