@@ -1,6 +1,6 @@
 # Fork of ZeroMQ with both 32bit/64bit prebuilt binaries
 
-Binaries obtained from https://github.com/zeromq/zeromq.js/releases (v4.6.0, node v47)
+Binaries obtained from https://github.com/zeromq/zeromq.js/releases (v4.6.0, node v57)
 
 ## zeromq.js
 
